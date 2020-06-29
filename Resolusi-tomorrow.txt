@@ -7,3 +7,7 @@
   ^ React
   ^ Express
  
+- Learn Java
+  ^ Learn Kotlin
+  ^ Learn Android
+  ^ Learn Native
