@@ -1,0 +1,9 @@
+- Learn Python
+  ^ Django
+  ^ Numpy
+  ^ MongoDB
+
+- Learn Javascript
+  ^ React
+  ^ Express
+ 
