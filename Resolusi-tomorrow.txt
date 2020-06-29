@@ -2,8 +2,10 @@
   ^ Django
   ^ Numpy
   ^ MongoDB
+  ^ Tkinter
 
 - Learn Javascript
   ^ React
   ^ Express
- 
+  
+- Learn C++
